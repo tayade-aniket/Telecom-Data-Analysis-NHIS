@@ -210,7 +210,7 @@ First, set up your SQL Server database and load the telecom data. Ensure you hav
 ### 2. Clone the repository (for Python analysis):
 ```bash
     git clone https://github.com/tayade-aniket/Telecom-Data-Analysis-NHIS
-    cd TellCo-Telecom-Data-Analysis
+    cd Telecom-Data-Analysis-NHIS
 ```
 
 ### 3. Install Dependencies (for Python analysis):
