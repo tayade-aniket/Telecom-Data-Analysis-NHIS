@@ -24,8 +24,6 @@ The analysis is based on a simulated **telecom xDR (data sessions Detail Record)
 
 ## 🚀 Key Analysis Areas
 
-![Logo](assets/steps.svg)
-
 The project systematically addresses four core sub-objectives to provide a holistic view of TellCo's operations and customer base:
 
 ### 1. User Overview Analysis 👤
