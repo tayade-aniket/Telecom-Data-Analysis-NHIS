@@ -220,7 +220,7 @@ First, set up your SQL Server database and load the telecom data. Ensure you hav
 
 ### 4. Run the Analysis (Python):
 ```bash
-   jupyter notebook TellCo_Telecom_Analysis.ipynb
+   jupyter notebook telecom_solution.ipynb
 ```
 
 ## 🛣️ Future Enhancements
