@@ -6,7 +6,7 @@ This project delivers a comprehensive data analysis of **TellCo's telecom datase
 
 The diagram below illustrates the high-level data flow and analytical process:
 
-![Data Flow Diagram](deepseek_mermaid_20250616_dc14e2.png)
+![Data Flow Diagram](/assets/steps.svg)
 
 ## 🎯 Business Context & Objective
 
