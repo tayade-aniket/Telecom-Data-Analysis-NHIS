@@ -6,7 +6,7 @@ This project delivers a comprehensive data analysis of **TellCo's telecom datase
 
 The diagram below illustrates the high-level data flow and analytical process:
 
-<img src="/assets/steps.svg" alt="Data Flow Diagram" width="150" height="250" />
+<img src="/assets/steps.svg" alt="Data Flow Diagram" width="250" height="450" />
 
 
 ## 🎯 Business Context & Objective
