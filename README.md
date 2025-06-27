@@ -30,7 +30,7 @@ The diagram below illustrates the high-level data flow and analytical process:
 - Identified power users consuming disproportionate network resources
 - Established baseline metrics for normal user behavior
 
-<img src="/assets/1 user_engagement_analysis.png" alt="Data Flow Diagram" width="500" height="400" />
+<img src="/assets/1 user_engagement_analysis.png" alt="Data Flow Diagram" width="750" height="400" />
 
 ### 2. User Experience Analysis
 **Objective:** Evaluate network performance metrics affecting user experience.
@@ -46,7 +46,7 @@ The diagram below illustrates the high-level data flow and analytical process:
 - Established correlation between throughput and RTT
 - Highlighted areas needing network infrastructure improvements
 
-<img src="/assets/2 user_experience_analysis.png" alt="Data Flow Diagram" width="500" height="400" />
+<img src="/assets/2 user_experience_analysis.png" alt="Data Flow Diagram" width="750" height="400" />
 
 ### 3. User Satisfaction Analysis
 **Objective:** Develop a composite satisfaction score combining engagement and experience metrics.
@@ -62,7 +62,7 @@ The diagram below illustrates the high-level data flow and analytical process:
 - High-engagement users not always most satisfied
 - Identified at-risk users for targeted retention programs
 
-<img src="/assets/3 user_satisfaction_analysis.png" alt="Data Flow Diagram" width="500" height="400" />
+<img src="/assets/3 user_satisfaction_analysis.png" alt="Data Flow Diagram" width="750" height="400" />
 
 ## 🎯 Business Context & Objective
 
@@ -110,11 +110,7 @@ jupyter notebook
 - Network Issues: 15% of users experience suboptimal RTT (>200ms)
 - Satisfaction Drivers: Throughput has 2x greater impact on satisfaction than data usage
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
 
 ## Authors
 
-- [@tayade-aniket](https://github.com/tayade-aniket)
+[@tayade-aniket](https://github.com/tayade-aniket)
