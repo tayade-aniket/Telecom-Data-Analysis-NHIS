@@ -25,6 +25,8 @@ The diagram below illustrates the high-level data flow and analytical process:
 - Identified top users by data consumption
 - Stored results in SQL database for further analysis
 
+<img src="/assets/user_engement_plot.png" alt="Data Flow Diagram" width="750" height="400" />
+
 **Insights:**
 - Clear segmentation of users into low, medium, and high engagement clusters
 - Identified power users consuming disproportionate network resources
@@ -41,6 +43,8 @@ The diagram below illustrates the high-level data flow and analytical process:
 - Created experience clusters using K-Means
 - Flagged users with poor network performance
 
+<img src="/assets/user_experience_plot.png" alt="Data Flow Diagram" width="750" height="400" />
+
 **Insights:**
 - Identified users experiencing suboptimal network conditions
 - Established correlation between throughput and RTT
@@ -56,6 +60,8 @@ The diagram below illustrates the high-level data flow and analytical process:
 - Created weighted satisfaction score (40% data usage, 30% RTT, 30% throughput)
 - Performed regression analysis to validate score components
 - Identified most and least satisfied users
+
+<img src="/assets/user_satisfaction_plot.png" alt="Data Flow Diagram" width="750" height="400" />
 
 **Insights:**
 - Strong correlation between throughput and satisfaction
@@ -105,11 +111,42 @@ jupyter notebook
 
 <img src="/assets/diagram.png" alt="Data Flow Diagram" width="450" height="500" />
 
-### ✨ Key Findings
-- Engagement Patterns: 20% of users account for 60% of data traffic
-- Network Issues: 15% of users experience suboptimal RTT (>200ms)
-- Satisfaction Drivers: Throughput has 2x greater impact on satisfaction than data usage
+# ✨Investment Recommendation
 
+### Growth Potential Assessment
+
+- High engagement users are already using a lot of data, especially for video — they can be upsold premium plans or features.
+- Platforms like YouTube and Netflix show users want fast, high-bandwidth connections, making a strong case for 5G upgrades.
+- Many users own top-end phones like Samsung and Apple, which shows they’re willing to spend — a good sign for boosting ARPU.
+- Partnering with device brands could be a smart way to sell bundled services or offers, boosting both device and plan sales.
+- The low-usage group still has potential — with the right offers or improvements, they could become more engaged and loyal.
+- Users in the "Poor Experience" group may leave if not addressed — improving their network can reduce churn and win trust.
+- There's a strong business case to improve service quality — it directly ties to happier users and higher revenue.
+- Overall, by targeting both top users and struggling users, the company can achieve balanced growth and retention.
+
+### Investment Recommendation: **BUY**
+
+TellCo appears to be a viable acquisition target with significant growth potential, provided the investor is prepared to address existing network experience issues and capitalize on identified opportunities.
+
+### Limitations and Risks
+
+* The data is simulated, so real-world results could be very different due to missing variables like age, income, or actual churn behavior.
+* The network shows technical issues like high RTT and retransmissions — fixing this will need big investments in infrastructure.
+* Since churn data is missing, the current satisfaction score is more of a guess than a proven churn indicator.
+* The competitive environment isn’t analyzed, meaning TellCo's position in the market isn’t fully clear.
+* Local telecom laws and regulations in Pefkakia may affect costs, expansion, and service — but they’re not considered here.
+* Economic and political conditions in the country can greatly impact TellCo’s growth, but these aren't part of the analysis.
+* Overall, while the insights are useful, real business decisions need deeper, real-world data and context for accuracy.
+
+### Key Strategic Recommendations for Post-Acquisition
+
+- **Fix the network first** — high delay (RTT) and retransmissions are hurting user experience, so infrastructure upgrades are urgent.
+- **Launch custom data plans** — like unlimited video for heavy users, and small trial packs for low users, to boost engagement.
+- **Set up a churn alert system** — reach out to users with bad experience scores using offers, support, or incentives to retain them.
+- **Collaborate with top handset brands (like Apple and Samsung)** — to sell bundled offers and ensure device–network optimization.
+- **Build a strong analytics** — team to keep track of usage, satisfaction, and network data in real-time for faster decisions.
+- **Use app usage patterns (e.g., high YouTube demand)** — to guide service expansion and improve coverage in high-potential areas.
+- **Final note:** While this analysis gives a good direction, real-world data and competitive research are crucial before investing.
 
 ## Authors
 
